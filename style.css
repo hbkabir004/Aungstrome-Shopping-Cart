@@ -4,6 +4,12 @@ body {
 .total {
   font-size: 30px;
 }
+.ghora {
+  color: goldenrod;
+}
+.dim {
+  color: gold;
+}
 .cart {
   margin: 100px 0;
   background-color: #f6f5fa;
